@@ -11,11 +11,11 @@ Este repositório foi criado para o desenvolvimento do primeiro módulo sobre Gr
 
 # Apresentação
 
-[Link para a apresentação da dupla]()
+[Link para a apresentação da dupla](https://youtu.be/R7xIfYTEdRc)
 
 # Foram feitos os exercícios no LeetCode
 
-## [785. Network Delay Time (Medium)](https://leetcode.com/problems/is-graph-bipartite/description/)
+## [785. Is Graph Bipartite (Medium)](https://leetcode.com/problems/is-graph-bipartite/description/)
 
 Há um grafo não direcionado com n nós, onde cada nó é numerado de 0 a n - 1. Você recebe uma matriz 2D chamada 'graph', onde 'graph[u]' é uma matriz de nós aos quais o nó u é adjacente. Mais formalmente, para cada v em 'graph[u]', há uma aresta não direcionada entre o nó u e o nó v. O grafo possui as seguintes propriedades:
 
