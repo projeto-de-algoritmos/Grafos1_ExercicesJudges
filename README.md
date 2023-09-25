@@ -47,7 +47,7 @@ Retorne a duração do ciclo mais curto no gráfico. Se não existir nenhum cicl
 
 Um ciclo é um caminho que começa e termina no mesmo nó, e cada aresta do caminho é usada apenas uma vez.
 
-![2608. Shortest Cycle in a Graph](/images/2608.jpeg)
+![2608. Shortest Cycle in a Graph](/images/2608.jpg)
 
 ## [2360. Longest Cycle in a Graph (Hard)](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
 
@@ -59,7 +59,7 @@ Retorne a duração do ciclo mais longo no gráfico. Se não existir nenhum cicl
 
 Um ciclo é um caminho que começa e termina no mesmo nó.
 
-![2360. Longest Cycle in a Graph](/images/2360.jpeg)
+![2360. Longest Cycle in a Graph](/images/2360.jpg)
 
 # Instalação
 
